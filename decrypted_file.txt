@@ -1,0 +1,5 @@
+Opracować program komputerowy szyfrujący i deszyfrujący
+dowolne wiadomości (pliki binarne dowolnej długości) szyfrem
+RC4 i ukrywający kryptogram w pliku graficznym.
+
+
